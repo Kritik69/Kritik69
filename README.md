@@ -10,7 +10,7 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love cracking stupid jokes : )
 
-![I am a Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Web Developer](https://github.com/Kritik69/Kritik69/blob/main/OyGx.gif)
 
 I'm a web developer located in MUmbai, Commited to make more and more projects and extend my reach, Discover new types and feature and add them to my projects. 
 
