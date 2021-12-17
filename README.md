@@ -1,6 +1,6 @@
 ### "“You miss 100% of the shots you don’t take. - Wayne Gretzky” - Michael Scott" - KRITIK JAMBUSARIYA
 
-![I am a Web Developer]
+<h3>I'm a Web Developer</h2>
 <img src="https://github.com/Kritik69/Kritik69/blob/main/OyGx.gif" width="1000" height="500" >
 
 I'm a web developer located in Mumbai, Commited to make more and more projects and extend my reach, Discover new types and feature and add them to my projects. 
