@@ -1,4 +1,4 @@
-### "“You miss 100% of the shots you don’t take. - Wayne Gretzky” - Michael Scott" - KRITIK JAMBUSARIYA 👋
+### "“You miss 100% of the shots you don’t take. - Wayne Gretzky” - Michael Scott" - KRITIK JAMBUSARIYA
 
 ![I am a Web Developer](https://github.com/Kritik69/Kritik69/blob/main/OyGx.gif)
 
