@@ -1,4 +1,4 @@
-### Hello Smart People 👋
+### "“You miss 100% of the shots you don’t take. - Wayne Gretzky” - Michael Scott" - KRITIK JAMBUSARIYA 👋
 
 
 - 🔭 I’m currently working on a E-Comm app
