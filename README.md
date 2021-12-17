@@ -9,3 +9,14 @@
 - 📫 How to reach me: kritikjambusariya@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love cracking stupid jokes : )
+
+![I am a Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I'm a web developer located in MUmbai, Commited to make more and more projects and extend my reach, Discover new types and feature and add them to my projects. 
+
+Skills: REACT / JS / HTML / CSS / NODE / EXPRESS / MONGODB
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Kritik69)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/kritik-jambusariya-b63162206/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_omicron69//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/16540054/kritik-jambusariya)  
