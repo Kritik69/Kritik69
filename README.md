@@ -63,9 +63,3 @@ I build scalable full stack applications — from **design to deployment**, blen
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow)](https://stackoverflow.com/users/16540054/kritik-jambusariya)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Kritik69)
 [![Gmail](https://img.shields.io/badge/-kritikjambusariya@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:kritikjambusariya@gmail.com)
-
----
-
-## 🧠 Fun Fact
-
-I love cracking **stupid jokes** that only make sense after a minute — if ever 😄
