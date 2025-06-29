@@ -1,20 +1,71 @@
-### "“You miss 100% of the shots you don’t take. - Wayne Gretzky” - Michael Scott" - KRITIK JAMBUSARIYA
+# “You miss 100% of the shots you don’t take. – Wayne Gretzky”  
+> — *Michael Scott*  
+> — **Kritik Jambusariya**
 
-<h3>I'm a Web Developer</h2>
-<img src="https://github.com/Kritik69/Kritik69/blob/main/OyGx.gif" width="1000" height="400" >
+---
 
-I'm a web developer located in Mumbai, Commited to make more and more projects and extend my reach, Discover new types and feature and add them to my projects. 
-Skills: REACT / JS / HTML / CSS / NODE / EXPRESS / MONGODB
+## 👋 Hey there! I'm Kritik
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### 💻 Full Stack Developer | MERN | SaaS Enthusiast | Based in Mumbai
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kritik69)](https://github.com/anuraghazra/github-readme-stats)
-- 🔭 I’m currently working on a E-Comm app
-- 🌱 I’m currently learning Backend
-- 👯 I’m looking to collaborate on any platform
-- 📫 How to reach me: kritikjambusariya@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: I love cracking stupid jokes : )
- 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Kritik69)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/kritik-jambusariya-b63162206/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_omicron69//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/16540054/kritik-jambusariya)  
+I build scalable full stack applications — from **design to deployment**, blending front-end finesse with robust back-end systems. I love working on SaaS platforms and constantly push my limits with new technologies and features. Currently exploring the world of **Python + Flask** while managing multiple full stack projects.
+
+---
+
+### 🚀 Tech Stack
+
+#### ⚒️ Languages & Frameworks
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+
+#### 🌐 Frontend
+
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
+
+#### 🛠️ Dev Tools
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)
+![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobe-photoshop)
+
+---
+
+## 📈 GitHub Stats
+
+![Kritik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kritik69&show_icons=true&theme=radical&hide_title=false)
+
+---
+
+## 🔥 Currently
+
+- 🔭 Building a full-featured **E-Commerce platform**
+- 🌱 Learning **Flask** & **advanced backend patterns**
+- 🧠 Improving system architecture & SaaS design practices
+- 🤝 Open to **collaborations**, side-projects & internships
+
+---
+
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kritik-jambusariya-b63162206/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/_omicron69/)
+[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow)](https://stackoverflow.com/users/16540054/kritik-jambusariya)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Kritik69)
+[![Gmail](https://img.shields.io/badge/-kritikjambusariya@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:kritikjambusariya@gmail.com)
+
+---
+
+## 🧠 Fun Fact
+
+I love cracking **stupid jokes** that only make sense after a minute — if ever 😄
